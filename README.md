@@ -1,2 +1,2 @@
-# Landing-Page
-i've created a landing page for Fitclub Gym
+# OctaNet Internship
+Internship Tasks
